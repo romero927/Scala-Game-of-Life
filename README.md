@@ -1,5 +1,5 @@
 # Note
-- This repo was cloned by Kyle Romero from
+- This repo was cloned by Kyle Romero from https://github.com/stevebakh/game-of-life
 - No new code has been written, this is simply to understand Scala and SBT
 - Used Chocolatey to install SBT via 'choco install sbt'
 - sbt run will build and run the game
